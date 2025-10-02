@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasek</h1>
 <h3 align="center">I'm a czech IT student</h3>
+<h5 align="center">Su programator, ale aj člověk, ne stroj, tak robim chyby, né?</h5>
+
 
 - 🔭 I’m currently working on **Homeworks**
 
