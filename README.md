@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Vašek</h1>
+<h1 align="center">Hey there 👋, I'm Vašek</h1>
 <h3 align="center">💻 Czech IT Student | Developer in Progress 🚀</h3>
 <h5 align="center">Su programátor, ale aj člověk, ne stroj – tak robím chyby, né?</h5>
 
