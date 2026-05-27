@@ -39,9 +39,15 @@ Here are some of the repositories I've been working on:
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin-right: 10px;"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+<a href="https://crowcpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="Crow C++" width="40" height="40" style="margin-right: 10px;"/>
+</a>
   <a href="https://www.gnu.org/software/gcc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40" style="margin-right: 10px;"/>
   </a>
