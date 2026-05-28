@@ -25,7 +25,7 @@
 
 ### 🚀 My Projects
 Here are some of the repositories I've been working on:
-- 🎮 **[The-Lost-Force](https://github.com/Shalldarek/The-Lost-Force)** & **[The-Lost-Force---Web](https://github.com/Shalldarek/The-Lost-Force---Web)**
+- 🎮 **[The-Lost-Force](https://github.com/Shalldarek/The-Lost-Force)**
 - 🌲 **[Tree-W-Min-Height](https://github.com/Shalldarek/Tree-W-Min-Height)**
 - ⚙️ **[SRL](https://github.com/Shalldarek/SRL)**
 
