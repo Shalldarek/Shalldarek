@@ -48,6 +48,9 @@ Here are some of the repositories I've been working on:
 <a href="https://crowcpp.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="Crow C++" width="40" height="40" style="margin-right: 10px;"/>
 </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
+</a>
   <a href="https://www.gnu.org/software/gcc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40" style="margin-right: 10px;"/>
   </a>
