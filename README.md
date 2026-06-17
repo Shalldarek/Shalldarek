@@ -21,16 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalldarek&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="48%">
 </p>
 
----
-
-### 🚀 My Projects
-Here are some of the repositories I've been working on:
-- 🎮 **[The-Lost-Force](https://github.com/Shalldarek/The-Lost-Force)**
-- 🌲 **[Tree-W-Min-Height](https://github.com/Shalldarek/Tree-W-Min-Height)**
-- ⚙️ **[SRL](https://github.com/Shalldarek/SRL)**
-
----
-
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
